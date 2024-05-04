@@ -11,6 +11,8 @@ I created an automated system using machine learning to estimate the annual medi
 - Smoking habits
 - Region of residence.
 
+Dataset link : https://www.kaggle.com/datasets/harshsingh2209/medical-insurance-payout
+
 ## Steps in this process:
 - Importing and understanding the dataset
 - Exploratory Data Analysis
